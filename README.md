@@ -1,3 +1,4 @@
+Authors: Grigolato Giordano, Cischele Matteo, Mastrotto Enrico.
 AI Project for social good regarding the AI Course lectured by professor Maria Silvia Pini at DEI (UniPD).
 
 According to data provided by the National Alpine and
