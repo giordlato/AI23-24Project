@@ -23,4 +23,22 @@ ones: by fully automating the procedure following a fire
 breakout the previously said numbers could be cut by an
 important percentage. (PagineSicurezza 2024)
 
-The main intuition laying the bases for the work in this paper comes from the idea of reducing all the numbers previously cited by creating an application capable of giving out precise directions based on what the user actually wants, besides going for the shortest or fastest path. One of the first things that we elaborated was a measure of safety for the multiple nodes in a map deciding to opt for a point based system: ranging from 1 to 5 a node can be as safe as possible if talking about a town, for example, while it can be as risky as possible if talking about some kind of natural obstacle, such as a lake or a very nasty swamp. From there we also designed a parameter capable of taking into consideration the height difference between two places, of course trying to make the most stable path the most desirable: nobody would like to go up and down in a steep path whenever a more even path can be accessed. To summarize, the main idea has been to give users the possibility to orient themselves with a more subjective and safety-centered view while, at the same time, giving them access to natural paths and points of interest otherwise inaccessible at a first glance on more mainstream applications.
+The main intuition laying the bases for the work in this paper
+comes from the idea of reducing all the numbers previously
+cited by creating an application capable of giving out precise
+directions based on what the user actually wants, besides going for the shortest or fastest path. One of the first things that
+we elaborated was a measure of safety for the multiple nodes
+in a map deciding to opt for a point based system: ranging
+from 1 to 5 a node can be as safe as possible if talking about
+a town, for example, while it can be as risky as possible if
+talking about some kind of natural obstacle, such as a swamp
+or a room on fire. In the first study case we also designed
+a parameter capable of taking into consideration the height
+difference between two places, of course trying to make the
+most stable path the most desirable: nobody would like to go
+up and down in a steep path whenever a more even path can
+be accessed. To summarize, the main idea has been to give
+users the possibility to orient themselves with a more subjective and safety-centered view while, at the same time giving
+them access to natural paths and points of interest otherwise
+inaccessible at a first glance on more mainstream applications. Concerning the second study case we instead adapted
+the application to make it sensible to the change of fire position, making it more suitable for real life applications.
