@@ -1,0 +1,39 @@
+Safe 0 0 0 0UscitaEmgOvest 0UscitaEmgEst 1UscitaEmgOvest 2UscitaEmgOvest
+0Ingresso 2.1 3.7 1 0CorridoioOvest
+0CorridoioOvest 2.1 2.2 1 0UscitaEmgOvest 0Ingresso 0Accettazione 0CorridoioCentro
+0Accettazione 2.1 1.3 1 0CorridoioOvest
+0UscitaEmgOvest 1 2.2 1 0CorridoioOvest Safe
+0CorridoioCentro 2 4.3 2 0CorridoioEast 0Bagno 0Ascensore 0Scale
+0Magazino 4.3 1.5 2 0CorridoioCentro
+0Bagno 4.3 3.3 2 0CorridoioCentro
+0Ascensore 4.9 3.3 7 0CorridoioCentro 1Ascensore
+0Scale 5.8 3.3 2 1Scale 0CorridoioCentro
+0CorridoioEast 5.8 2.1 2 0CorridoioCentro 0Ufficio1 0UscitaEmgEst
+0Ufficio1 5.8 1.4 2 0CorridoioEast
+0UscitaEmgEst 6.6 2.3 2 0CorridoioEast Safe
+1Ascensore 14.9 13.3 7 1CorridoioCentro 1Ascensore 2Ascensore
+1Scale 15.8 13.3 4 0Scale 1CorridoioCentro 2Scale
+1CorridoioCentro 14.3 12.4 4 1CorridoioEast 1Bagno 1Ascensore 1Scale 1Ufficio4 1SalaRelax 1CorridoioOvest
+1SalaRelax 14.7 11.4 4 1CorridoioCentro
+1Ufficio4 13.8 14.1 4 1CorridoioCentro
+1Bagno 13.3 11.3 4 1CorridoioCentro
+1CorridoioEast 15.8 12.3 4 1CorridoioCentro 1Ufficio3
+1Ufficio3 16.0 11.4 4 1CorridoioEast
+1CorridoioOvest 12.3 12.3 3 1CorridoioCentro 1UscitaEmgOvest 1SalaRiunioni 1Ufficio1 1Ufficio2
+1SalaRiunioni 12.3 11.4 3 1CorridoioCentro
+1UscitaEmgOvest 11 12.2 3 1CorridoioOvest Safe
+1Ufficio1 11.4 13.7 3 1CorridoioOvest
+1Ufficio2 12.4 13.7 3 1CorridoioOvest
+2Ascensore 24.9 23.3 7 2CorridoioCentro 1Ascensore
+2Scale 25.8 23.3 6 2CorridoioCentro 1Scale
+2CorridoioCentro 24.3 22.4 6 2Bagno 2Ascensore 2Scale 2Ufficio7 2Ufficio6 2Ufficio5 2CorridoioOvest
+2Bagno 24.3 23.6 6 2CorridoioCentro
+2Ufficio7 23.2 21.7 6 2CorridoioCentro
+2Ufficio6 24.8 21.7 6 2CorridoioCentro
+2Ufficio5 25.8 22.3 6 2CorridoioCentro
+2CorridoioOvest 22.3 22.3 5 2CorridoioCentro 2UscitaEmgOvest 2Ufficio1 2Ufficio2 2Ufficio3 2Ufficio4
+2UscitaEmgOvest 21 22.2 5 2CorridoioOvest Safe
+2Ufficio1 21.3 23.6 5 2CorridoioOvest
+2Ufficio2 22.9 23.6 5 2CorridoioOvest
+2Ufficio3 21.3 21.6 5 2CorridoioOvest
+2Ufficio4 22.9 21.6 5 2CorridoioOvest
