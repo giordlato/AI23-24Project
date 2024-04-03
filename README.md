@@ -42,3 +42,6 @@ users the possibility to orient themselves with a more subjective and safety-cen
 them access to natural paths and points of interest otherwise
 inaccessible at a first glance on more mainstream applications. Concerning the second study case we instead adapted
 the application to make it sensible to the change of fire position, making it more suitable for real life applications.
+
+USE:
+LagoCarezza.py and Office.py are different python files to try and execute the applications. Nodes.txt is the database of the lake while Data1 is the database for the office, the user can just read all the points he has the possibilty to choose from those same txt files. There are also some PNGs as references
