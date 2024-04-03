@@ -72,7 +72,7 @@ def main():
             d = d
         return d
 
-    '''Total function: sum of safety, height difference and distance between starting and neigbour points
+    '''Total function: sum of safety, height difference and distance between starting and neighbour points
        the results is modified according to user's need, used as weight g(n)'''
     def total (a,b,c):
         safety = int(G.nodes[a]['s']) + int(G.nodes[b]['s'])
@@ -109,7 +109,7 @@ def main():
             speed = 8
         return math.floor((partial_distance/speed)*60)
 
-    '''Outputs the a star ideal path, the coordinates and the time to attraverse paths'''
+    '''Outputs the a star ideal path, the coordinates and the time to traverse paths'''
     print("Your ideal path is:")
     alfa = nx.astar_path(G, start_node, end_node, heuristic= dist, weight=total)
     print(alfa)
