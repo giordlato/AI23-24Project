@@ -1,0 +1,20 @@
+Chez 45.263425 11.730016 5 2 Viti Verde
+Viti 45.260211 11.728352 4 2 Chez Rose
+Rose 45.251850 11.722031 4 2 Viti Carmine
+Verde 45.259272 11.763332 3 3 Buzzi Diesel
+Buzzi 45.251603 11.751041 4 3to Verde Station Chez
+Diesel 45.244795 11.757274 1 2 Verde Station Tower Hotel Duodo
+Station 45.245985 11.748478 2 1 Buzzi Diesel Tower Bar
+Carmine 45.245616 11.736769 3 3 Rose Bar
+Bar 45.243114 11.743818 3 3 Carmine Station Tower Food
+Tower 45.241473 11.750692 4 3 Bar Diesel Station Duodo Hotel Diesel Duomo
+Duodo 45.240817 11.758730 2 3 Tower Hotel Wurth Diesel
+Hotel 45.238930 11.761002 2 2 Diesel Tower Duodo Wurth
+Duomo 45.238684 11.749119 2 4 Tower Hotel Wurth Stadium
+Stadium 45.236387 11.746730 5 2 Duomo Paste
+Food 45.237207 11.735721 4 4 River Bar Paste
+River 45.236715 11.746206 5 5 Marendole Dental Paste Stadium Food
+Paste 45.233761 11.743585 3 2 River Food Dental
+Dental 45.229331 11.738458 4 1 Marendole Wurth Paste River
+Wurth 45.231546 11.753080 4 1 Dental Duomo Duomo
+Marendole 45.226623 11.727216 5 5 Dental River
